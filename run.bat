@@ -1,0 +1,1 @@
+python C:\Users\User\skillbox\virus_search\Karim_virus_search\main.py C:\Users\User\skillbox
